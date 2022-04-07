@@ -5,11 +5,13 @@
 To find the PEAS description for the given AI problem and develop an AI agent.
 
 ## THEORY
-```
+
 A vacuum-cleaner world with just two locations.
+
 Each location can be clean or dirty.
+
 The agent can move left or right and can clean the square that it occupies.
-```
+
 ## PEAS DESCRIPTION
 | Agent Type  | Performance Measure  | Environment | Actuators | Sensors|
 | :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
@@ -31,7 +33,7 @@ Implementing the AI agent
 Measure the performance parameters
 
 ## PROGRAM
-```
+```python3
 import random
 import time
 
@@ -259,6 +261,7 @@ if __name__ == "__main__":
         print("Performance : {0}".format(agent.performance))
         time.sleep(10)
 ```
+
 ## OUTPUT
 ![WhatsApp Image 2022-04-07 at 9 33 06 PM](https://user-images.githubusercontent.com/75235554/162248341-0dda5406-3069-40a9-88c9-36b31ab8a427.jpeg)
 
