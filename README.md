@@ -1,6 +1,3 @@
-# EX NO: 01
-# DATE:
-
 # <p align="center">Developing AI Agent with PEAS Description</p>
 
 ## AIM
