@@ -1,4 +1,7 @@
-# Developing AI Agent with PEAS Description
+# EX NO: 01
+# DATE:
+
+# <p align="center">Developing AI Agent with PEAS Description</p>
 
 ## AIM
 
@@ -33,6 +36,9 @@ Implementing the AI agent
 Measure the performance parameters
 
 ## PROGRAM
+#### Developed by
+#### Register Number: 212220230022
+#### Name: Harshini M
 ```python3
 import random
 import time
